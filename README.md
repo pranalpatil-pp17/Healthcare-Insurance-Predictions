@@ -11,6 +11,6 @@ Key features in this dataset include:
 - **Region**: Geographic region of the insured person
 - **Charges**: Medical insurance charges incurred by the insured person
 
-🔗 You can find this project on Kaggle [here]([https://www.kaggle.com/your-kaggle-link](https://www.kaggle.com/code/pranal17/healthcare-insurance-eda/edit)).
+🔗 You can find this project on Kaggle [here]([https://www.kaggle.com/code/pranal17/healthcare-insurance-eda/edit]).
 
 Feel free to explore, contribute, and give your feedback! 👨‍💻👩‍💻 Let’s dive into the data and start analyzing how these personal and regional factors shape insurance costs! 🚀
